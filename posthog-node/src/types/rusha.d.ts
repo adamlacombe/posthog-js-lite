@@ -19,5 +19,5 @@ interface Rusha {
 declare const Rusha: Rusha
 
 declare module 'rusha' {
-  export = Rusha
+  export default Rusha;
 }
